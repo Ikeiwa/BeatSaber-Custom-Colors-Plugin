@@ -328,3 +328,12 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/UnityEngine.dll
+/UnityEngine.TextRenderingModule.dll
+/UnityEngine.UnityWebRequestWWWModule.dll
+/UnityEngine.WebModule.dll
+/Assembly-CSharp.dll
+/IllusionInjector.dll
+/IllusionPlugin.dll
+/Mono.WebBrowser.dll
+/UnityEngine.CoreModule.dll
